@@ -10,8 +10,8 @@
 - 📖 Daily Dev Notes: documenting my coding grind
 
 ## 🌐 Connect with me
-[![Twitter](https://x.com/dr_r0b3rt)
-[![LinkedIn](https://www.linkedin.com/in/daniel-robert-5a4a17358/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dr_r0b3rt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-robert-5a4a17358/)
 
 ---
 
